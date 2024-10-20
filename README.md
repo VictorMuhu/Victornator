@@ -1,7 +1,7 @@
 - Hi there 👋
-- 👀 I’m interested in ...PowerBI, Power Automate, Power Query, Power Apps, Python, VBA, Project Managment
+- 👀 I’m interested in ...Webdesign, Python, SQL, PowerBI, Power Automate, Power Query, Power Apps.
 - 🌱 I’m currently learning ...General coding and BI analysis programs
-- 💞️ Currently tinkering in ...Python, SQL
+- 💞️ Currently tinkering in ...Web Design, Python, SQL, then R, and will focus on Computer Science once I establish the fundamentals
 
 
 <!---
